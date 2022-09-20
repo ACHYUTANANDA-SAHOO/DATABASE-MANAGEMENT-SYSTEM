@@ -2,13 +2,13 @@
 Consists of MySQL and Queries pertaining to DBMS.
 
 ## EXPERIMENT 1 : Basic DDL Commands -
-FILE LINK :
-OUTPUT : 
+FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob/main/DAY%201%20LAB/1_Basic_DDL_Commands.sql <br />
+OUTPUT : <br/>
 
 
 ## EXPERIMENT 2 : DDL Commands with Constraints - 
-FILE LINK :
-OUTPUT : 
+FILE LINK : <br/>
+OUTPUT : <br/>
 
 ![Exp2 1](https://user-images.githubusercontent.com/113246116/191207724-4b1c8548-f25d-4f39-bdec-33f34e4d72de.png)
 ![Exp2 2](https://user-images.githubusercontent.com/113246116/191207749-e5bbe634-81e7-4b35-ac0e-31aa14ded22b.png)
