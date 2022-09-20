@@ -1,10 +1,11 @@
 # DATABASE-MANAGEMENT-SYSTEM
 Consists of MySQL and Queries pertaining to DBMS.<br/>
 
-[Experiment 1](#experiment-1-:-basic-ddl-commands)
+[Experiment 1](#experiment-1-:)<br/>
+[Experiment 2](#experiment-2-:)<br/>
 
 ## EXPERIMENT 1 :<br/> 
-Basic DDL Commands -
+Basic DDL Commands -<br/>
 FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob/main/DAY%201%20LAB/1_Basic_DDL_Commands.sql <br />
 ###OUTPUT : <br/>
 1.<br/>
@@ -19,7 +20,7 @@ FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blo
 ![exp1 5](https://user-images.githubusercontent.com/113246116/191210887-e2eafa55-8135-433f-b730-7005b498cf11.png)<br/>
 
 ## EXPERIMENT 2 :<br/>
-DDL Commands with Constraints - 
+DDL Commands with Constraints - <br/>
 FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob/main/DAY%201%20LAB/2_DDL_Commands_with_constraints.sql <br/>
 ###OUTPUT : <br/>
 
