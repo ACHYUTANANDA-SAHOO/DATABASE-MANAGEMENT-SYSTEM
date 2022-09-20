@@ -13,7 +13,6 @@ Consists of MySQL and Queries pertaining to DBMS.<br/>
 </h2>
 Basic DDL Commands -<br/>
 FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob/main/DAY%201%20LAB/1_Basic_DDL_Commands.sql <br />
-[Back to TOP](#top)<br/>
 ###OUTPUT : <br/>
 
 1.<br/>
@@ -32,7 +31,6 @@ FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blo
 </h2>
 DDL Commands with Constraints - <br/>
 FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob/main/DAY%201%20LAB/2_DDL_Commands_with_constraints.sql <br/>
-[Back to TOP](#top)<br/>
 ###OUTPUT : <br/>
 
 1.<br/>
@@ -49,7 +47,6 @@ FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blo
 </h2>
 DML Commands -INSERT, SELECT, UPDATE, DELETE - <br/>
 FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob/main/DAY%201%20LAB/3_4_DDL_Commands_New.sql <br/>
-[Back to TOP](#top)<br/>
 ###OUTPUT : <br/>
 
 1.<br/>
@@ -68,7 +65,6 @@ FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blo
 </h2>
 DML Commands - WHERE AND SELECT - <br/>
 FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob/main/DAY%201%20LAB/5_where_like.sql <br/>
-[Back to TOP](#top)<br/>
 ###OUTPUT : <br/>
 
 1.<br/>
