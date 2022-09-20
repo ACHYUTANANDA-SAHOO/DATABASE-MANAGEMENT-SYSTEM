@@ -4,7 +4,16 @@ Consists of MySQL and Queries pertaining to DBMS.
 ## EXPERIMENT 1 : Basic DDL Commands -
 FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob/main/DAY%201%20LAB/1_Basic_DDL_Commands.sql <br />
 OUTPUT : <br/>
-
+1.<br/>
+![exp1 1](https://user-images.githubusercontent.com/113246116/191210671-6b65bb1e-d240-4167-a87a-645962c3b577.png)<br/>
+2.<br/>
+![exp1 2](https://user-images.githubusercontent.com/113246116/191210696-b6b13c74-0258-4e1e-9ac6-b25e61205793.png)<br/>
+3.<br/>
+![exp1 3](https://user-images.githubusercontent.com/113246116/191210725-314e4b6c-6a6d-48a6-8014-6476a392c8dc.png)<br/>
+4.<br/>
+![exp1 4](https://user-images.githubusercontent.com/113246116/191210740-b0ad162e-55a0-49b7-acb4-70c1eb4ba8a8.png)<br/>
+5.<br/>
+![exp1 5](https://user-images.githubusercontent.com/113246116/191210887-e2eafa55-8135-433f-b730-7005b498cf11.png)<br/>
 
 ## EXPERIMENT 2 : DDL Commands with Constraints - 
 FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob/main/DAY%201%20LAB/2_DDL_Commands_with_constraints.sql <br/>
