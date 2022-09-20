@@ -11,6 +11,7 @@ Consists of MySQL and Queries pertaining to DBMS.<br/>
 Basic DDL Commands -<br/>
 FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob/main/DAY%201%20LAB/1_Basic_DDL_Commands.sql <br />
 ###OUTPUT : <br/>
+
 1.<br/>
 ![exp1 1](https://user-images.githubusercontent.com/113246116/191210671-6b65bb1e-d240-4167-a87a-645962c3b577.png)<br/>
 2.<br/>
@@ -44,6 +45,7 @@ FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blo
 DML Commands -INSERT, SELECT, UPDATE, DELETE - <br/>
 FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob/main/DAY%201%20LAB/3_4_DDL_Commands_New.sql <br/>
 ###OUTPUT : <br/>
+
 1.<br/>
 ![exp3 1](https://user-images.githubusercontent.com/113246116/191257589-20db6648-923e-4c07-ba3e-f1a950d9ca7d.png)<br/>
 2.<br/>
