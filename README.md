@@ -1,5 +1,7 @@
 # DATABASE-MANAGEMENT-SYSTEM
-Consists of MySQL and Queries pertaining to DBMS.
+Consists of MySQL and Queries pertaining to DBMS.<br/>
+
+[Experiment 1](experiment-1-:-basic-ddl-commands)
 
 ## EXPERIMENT 1 : Basic DDL Commands -
 FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob/main/DAY%201%20LAB/1_Basic_DDL_Commands.sql <br />
