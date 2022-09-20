@@ -1,0 +1,44 @@
+USE SSE;
+
+SELECT * FROM STUDENT;
+
+# 1. ALTERING STUDENT TABLE : 
+	# making register_no -> primary key
+	ALTER TABLE STUDENT
+	ADD PRIMARY KEY (REGISTER_NO);
+
+	#making mobile_no -> NOT NULL
+	ALTER TABLE STUDENT
+	MODIFY MOBILE_NO INT NOT NULL;
+
+# 2. ALTERING FACULTY TABLE : 
+	# making faculty_no -> PRIMARY KEY
+	ALTER TABLE FACULTY
+    ADD PRIMARY KEY (FACULTY_NO);
+    
+    # adding constraint to Gender 
+    ALTER TABLE FACULTY
+    ADD CHECK(GENDER = 'M' OR GENDER = 'F');    
+    
+		#TEST : SELECT * FROM FACULTY;
+    
+		#TEST : INSERT INTO FACULTY VALUES(2001,'AMISHA','Q',"2002-02-15","2022-02-15",43784748,02);
+        
+# 3. ALTERING DEPARTMENT TABLE : 
+	# making dept_no as a PRIMARY KEY
+    ALTER TABLE DEPARTMENT 
+    ADD PRIMARY KEY (DEPT_NO);
+    
+# 4. ALTERING COURSE TABLE : 
+	# making course_no -> PRIMARY KEY
+    ALTER TABLE COURSE
+    ADD PRIMARY KEY (COURSE_NO);
+    # adding constraint to SEM_NO
+    ALTER TABLE COURSE
+    ADD CHECK (SEM_NO >= 1 AND SEM_NO <=6);
+    
+    
+    
+    
+
+
