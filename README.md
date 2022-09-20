@@ -66,8 +66,8 @@ FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blo
 ###OUTPUT : <br/>
 
 1.<br/>
-<![exp5 1](https://user-images.githubusercontent.com/113246116/191287186-ed585c07-738d-4ae2-ba0b-d415f5fe99f7.png)
-br/>
+![exp5 1](https://user-images.githubusercontent.com/113246116/191287186-ed585c07-738d-4ae2-ba0b-d415f5fe99f7.png)
+<br/>
 2.<br/>
 ![exp5 2](https://user-images.githubusercontent.com/113246116/191287310-47fb963e-94e3-498c-ad2b-a102b0fe1163.png)
 <br/>
