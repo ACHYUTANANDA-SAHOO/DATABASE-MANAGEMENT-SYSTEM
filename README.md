@@ -42,7 +42,7 @@ FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blo
   EXPERIMENT 3 :
 </h2>
 DML Commands -INSERT, SELECT, UPDATE, DELETE - <br/>
-FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob/main/DAY%201%20LAB/2_DDL_Commands_with_constraints.sql <br/>
+FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob/main/DAY%201%20LAB/3_4_DDL_Commands_New.sql <br/>
 ###OUTPUT : <br/>
 1.<br/>
 ![exp3 1](https://user-images.githubusercontent.com/113246116/191257589-20db6648-923e-4c07-ba3e-f1a950d9ca7d.png)<br/>
