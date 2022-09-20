@@ -1,8 +1,8 @@
 # DATABASE-MANAGEMENT-SYSTEM
 Consists of MySQL and Queries pertaining to DBMS.<br/>
 
-[Experiment 1](#experiment-1-:)<br/>
-[Experiment 2](#experiment-2-:)<br/>
+[Experiment 1](##experiment-1-:)<br/>
+[Experiment 2](##experiment-2-:)<br/>
 
 ## EXPERIMENT 1 :<br/> 
 Basic DDL Commands -<br/>
