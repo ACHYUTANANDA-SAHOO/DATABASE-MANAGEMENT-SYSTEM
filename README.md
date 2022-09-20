@@ -3,7 +3,8 @@ Consists of MySQL and Queries pertaining to DBMS.<br/>
 
 [Experiment 1](#exp1)<br/>
 [Experiment 2](#exp2)<br/>
-[Experiment 3](#exp3)<br/>
+[Experiment 3 & 4](#exp3)<br/>
+[Experiment 5](#exp5)<br/>
 
 <h2 id = "exp1"> 
   EXPERIMENT 1 :
@@ -40,7 +41,7 @@ FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blo
 ![Exp2 4](https://user-images.githubusercontent.com/113246116/191207774-35537ca1-1cda-488b-89ca-343a63c90cf8.png)<br/>
 
 <h2 id = "exp3"> 
-  EXPERIMENT 3 :
+  EXPERIMENT 3 & 4 :
 </h2>
 DML Commands -INSERT, SELECT, UPDATE, DELETE - <br/>
 FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob/main/DAY%201%20LAB/3_4_DDL_Commands_New.sql <br/>
@@ -56,3 +57,41 @@ FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blo
 ![exp3 4](https://user-images.githubusercontent.com/113246116/191257648-6da67c92-2e95-4189-bf3d-4f9a5dc4bb56.png)<br/>
 5.<br/>
 ![exp3 5](https://user-images.githubusercontent.com/113246116/191257656-94ca2548-9518-4a5d-b34e-189c405b619a.png)<br/>
+
+<h2 id = "exp5"> 
+  EXPERIMENT 5 :
+</h2>
+DML Commands - WHERE AND SELECT - <br/>
+FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob/main/DAY%201%20LAB/5_where_like.sql <br/>
+###OUTPUT : <br/>
+
+1.<br/>
+<![exp5 1](https://user-images.githubusercontent.com/113246116/191287186-ed585c07-738d-4ae2-ba0b-d415f5fe99f7.png)
+br/>
+2.<br/>
+![exp5 2](https://user-images.githubusercontent.com/113246116/191287310-47fb963e-94e3-498c-ad2b-a102b0fe1163.png)
+<br/>
+3.<br/>
+![exp5 3](https://user-images.githubusercontent.com/113246116/191287372-87fed63d-51d1-4fcb-9738-1b87f52d1de3.png)
+<br/>
+4.<br/>
+![exp5 4](https://user-images.githubusercontent.com/113246116/191287400-0cc92826-bb17-4ce4-9ddf-4ed472061896.png)
+<br/>
+5.<br/>
+![exp5 5](https://user-images.githubusercontent.com/113246116/191287425-856968c0-1d78-4df2-8f8f-d0ccce697b65.png)
+<br/>
+6.<br/>
+![exp5 6](https://user-images.githubusercontent.com/113246116/191287461-e9c20750-3ee8-49c2-b718-61ad2c85801f.png)
+<br/>
+7.<br/>
+![exp5 7](https://user-images.githubusercontent.com/113246116/191287492-23e8b1ba-c15f-49fe-b540-8d5d8ef76c27.png)
+<br/>
+8.<br/>
+![exp5 8](https://user-images.githubusercontent.com/113246116/191287531-49793523-f41b-4fc9-a7ed-6853f574c769.png)
+<br/>
+9.<br/>
+![exp5 9](https://user-images.githubusercontent.com/113246116/191287556-4415b0bc-d84b-4af2-bce0-00082932dcd9.png)
+<br/>
+10.<br/>
+![exp5 10](https://user-images.githubusercontent.com/113246116/191287589-b5b53125-0502-442c-b8e5-88f832e9ec35.png)
+<br/>
