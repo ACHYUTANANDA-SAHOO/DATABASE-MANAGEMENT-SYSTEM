@@ -1,0 +1,19 @@
+USE SSE;
+-- 1.	List the departments where the faculty members are working.
+	SELECT DEPARTMENT.DEPT_NO, DEPARTMENT.DEPT_NAME, FACULTY.FACULTY_NO, FACULTY.FACULTY_NAME
+    FROM FACULTY JOIN DEPARTMENT
+    ON FACULTY.DEPT_NO = DEPARTMENT.DEPT_NO 
+    ORDER BY DEPT_NO;
+
+-- 2.	Find the student who has no score in any of the courses. List student name and course number.
+	SELECT ASSESSMENT.NAME, ASSESSMENT.REGISTER_NO ,COURSE.COURSE_NO, ASSESSMENT.MARKS
+    FROM ASSESSMENT JOIN COURSE
+    ON ASSESSMENT.COURSE_NO = COURSE.COURSE_NO
+    WHERE ASSESSMENT.MARKS = 0 ;
+
+-- 3.	The office clerk needs the names of the courses taken by the faculty belonging to ‘ECE department’ whose name is ‘Kamal’
+	SELECT DEPARTMENT.DEPT_NO, DEPARTMENT.DEPT_NAME, FACULTY.FACULTY_NAME
+    FROM DEPARTMENT JOIN FACULTY
+    ON DEPARTMENT.DEPT_NO = FACULTY.DEPT_NO
+    WHERE FACULTY.FACULTY_NAME = 'KAMAL';
+    
