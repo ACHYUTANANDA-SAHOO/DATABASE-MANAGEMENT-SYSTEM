@@ -8,6 +8,7 @@ Consists of MySQL and Queries pertaining to DBMS.<br/>
 [Experiment 3 & 4](#exp3)<br/>
 [Experiment 5](#exp5)<br/>
 [Experiment 6](#exp6)<br/>
+[Experiment 7](#exp7)<br/>
 
 <h2 id = "exp1"> 
   EXPERIMENT 1 :
@@ -148,7 +149,7 @@ FILE LINK :https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob
 <br/>
 3.<br/>
 ![exp7 3](https://user-images.githubusercontent.com/113246116/191544740-a38158e8-1533-46c4-86c4-2d7cf5674ee4.png)
-br/>
+<br/>
 4.<br/>
 ![exp7 4](https://user-images.githubusercontent.com/113246116/191544772-205b1ce9-a4d7-455e-ad62-229697e4ecf6.png)
 <br/>
