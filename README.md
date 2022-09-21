@@ -7,6 +7,7 @@ Consists of MySQL and Queries pertaining to DBMS.<br/>
 [Experiment 2](#exp2)<br/>
 [Experiment 3 & 4](#exp3)<br/>
 [Experiment 5](#exp5)<br/>
+[Experiment 6](#exp6)<br/>
 
 <h2 id = "exp1"> 
   EXPERIMENT 1 :
@@ -96,4 +97,58 @@ FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blo
 <br/>
 10.<br/>
 ![exp5 10](https://user-images.githubusercontent.com/113246116/191287589-b5b53125-0502-442c-b8e5-88f832e9ec35.png)
+<br/>
+
+
+<h2 id = "exp6"> 
+  EXPERIMENT 6 :
+</h2>
+SELECT with Various Clause : BETWEEN, IN and Aggregate Functions -  <br/>
+FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob/main/DAY%202%20LAB/6_between_in_aggregate.sql<br/>
+###OUTPUT : <br/>
+
+1.<br/>
+![exp6 1](https://user-images.githubusercontent.com/113246116/191543711-96889e3e-29ba-46a8-91c3-1aaed46af070.png)
+<br/>
+2.<br/>
+![exp6 2](https://user-images.githubusercontent.com/113246116/191543770-5df2437b-a7fc-45f8-8ea1-e8b9882c6303.png)
+<br/>
+3.<br/>
+![exp6 3](https://user-images.githubusercontent.com/113246116/191543807-2ff5380f-2f3c-4e62-a684-c2dde4fce06b.png)
+br/>
+4.<br/>
+![exp6 4](https://user-images.githubusercontent.com/113246116/191543834-22476a39-8cb7-468c-9b10-0edde9268afc.png)
+<br/>
+5.<br/>
+![exp6 5](https://user-images.githubusercontent.com/113246116/191543888-10dc8b6b-49d2-4171-b680-e17c2a114e48.png)
+<br/>
+6.<br/>
+![exp6 6](https://user-images.githubusercontent.com/113246116/191543933-cdbb0c3b-5101-4cca-b998-cbc0da93dcc0.png)
+br/>
+7.<br/>
+![exp6 7](https://user-images.githubusercontent.com/113246116/191543973-e2e7d5e3-eda1-4b71-b4b6-2b2c1db347d2.png)
+<br/>
+8.<br/>
+![exp6 8](https://user-images.githubusercontent.com/113246116/191543996-a7bb6be5-96de-4fa3-a737-28a3cb177da9.png)
+<br/>
+
+
+<h2 id = "exp7"> 
+  EXPERIMENT 7 :
+</h2>
+SELECT with various clause – GROUP BY, HAVING, ORDER BY -  <br/>
+FILE LINK :https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob/main/DAY%202%20LAB/7_group_order.sql <br/>
+###OUTPUT : <br/>
+
+1.<br/>
+![exp7 1](https://user-images.githubusercontent.com/113246116/191544664-2b31903e-9a11-4f41-8571-25c75d451d51.png)
+<br/>
+2.<br/>
+![exp7 2](https://user-images.githubusercontent.com/113246116/191544716-e9ad0c6e-1468-4a55-99dd-d0cb137c84f0.png)
+<br/>
+3.<br/>
+![exp7 3](https://user-images.githubusercontent.com/113246116/191544740-a38158e8-1533-46c4-86c4-2d7cf5674ee4.png)
+br/>
+4.<br/>
+![exp7 4](https://user-images.githubusercontent.com/113246116/191544772-205b1ce9-a4d7-455e-ad62-229697e4ecf6.png)
 <br/>
