@@ -13,6 +13,7 @@ Consists of MySQL and Queries pertaining to DBMS.<br/>
 [Experiment 9](#exp9)<br/>
 [Experiment 10](#exp10)<br/>
 [Experiment 11](#exp11)<br/>
+[Experiment 12](#exp12)<br/>
 [Experiment 13](#exp13)<br/>
 
 <h2 id = "exp1"> 
