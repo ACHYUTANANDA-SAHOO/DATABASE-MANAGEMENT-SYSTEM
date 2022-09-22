@@ -9,6 +9,8 @@ Consists of MySQL and Queries pertaining to DBMS.<br/>
 [Experiment 5](#exp5)<br/>
 [Experiment 6](#exp6)<br/>
 [Experiment 7](#exp7)<br/>
+[Experiment 8](#exp8)<br/>
+
 
 <h2 id = "exp1"> 
   EXPERIMENT 1 :
@@ -152,4 +154,24 @@ FILE LINK :https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob
 <br/>
 4.<br/>
 ![exp7 4](https://user-images.githubusercontent.com/113246116/191544772-205b1ce9-a4d7-455e-ad62-229697e4ecf6.png)
+<br/>
+
+<h2 id = "exp8"> 
+  EXPERIMENT 8 :
+</h2>
+SUBQUERY AND CORELATED QUERY-  <br/>
+FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob/main/DAY%202%20LAB/8_SUBQUERIES.sql<br/>
+###OUTPUT : <br/>
+
+1. Highest Score among all courses. <br/>
+![8 1](https://user-images.githubusercontent.com/113246116/191687397-e39f2182-55e9-40a6-9783-d1bf518c0e18.png)
+<br/>
+2. Student who has written more number of assessements. <br/>
+![exp8 2](https://user-images.githubusercontent.com/113246116/191688270-7b0d80d1-d65a-418d-99e6-5694af7fb549.png)
+<br/>
+3. Recently joined Faculty. <br/>
+![Exp8 3](https://user-images.githubusercontent.com/113246116/191689109-32569525-aa69-4ade-b448-d414f434ad46.png)
+<br/>
+4. Courses and score of assessments that have the value more than the average score each. <br/>
+![exp8 4](https://user-images.githubusercontent.com/113246116/191689122-9dede513-fc5b-4a35-a261-46da019c7d7a.png)
 <br/>
