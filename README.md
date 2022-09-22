@@ -13,6 +13,7 @@ Consists of MySQL and Queries pertaining to DBMS.<br/>
 [Experiment 9](#exp9)<br/>
 [Experiment 10](#exp10)<br/>
 [Experiment 11](#exp11)<br/>
+[Experiment 13](#exp13)<br/>
 
 <h2 id = "exp1"> 
   EXPERIMENT 1 :
@@ -210,4 +211,14 @@ FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blo
 2. Write a function that uses REPEAT statement which would repeat the loopuntil income is greater than or equal to 4000, at which point the REPEAT loop would be terminated.<br/>
 ![image](https://user-images.githubusercontent.com/113246116/191703032-7dd61a93-3a39-4b13-bbeb-47630f9debf7.png)<br/>
 
+<h2 id = "exp13"> 
+  EXPERIMENT 13 :
+</h2>
+REPEAT AND WHILE <br/>
+FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob/main/DAY%203%20LAB/11_repeat_while.sql<br/>
+###OUTPUT : <br/>
+
+1. Rollback to that state using the ROLLBACK command whenever required.
+Create a following table Class and insert values into it in the order and create savepoints in between them. Try to rollback t the save point and check your output by giving select commands.<br/>
+![image](https://user-images.githubusercontent.com/113246116/191737499-42388690-cdc6-4fd7-b61d-e093b3a7ab0d.png)<br/>
 
