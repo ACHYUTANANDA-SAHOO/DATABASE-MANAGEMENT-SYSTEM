@@ -211,6 +211,22 @@ FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blo
 2. Write a function that uses REPEAT statement which would repeat the loopuntil income is greater than or equal to 4000, at which point the REPEAT loop would be terminated.<br/>
 ![image](https://user-images.githubusercontent.com/113246116/191703032-7dd61a93-3a39-4b13-bbeb-47630f9debf7.png)<br/>
 
+<h2 id = "exp12"> 
+  EXPERIMENT 12 :
+</h2>
+CASE AND LOOP Statements :  <br/>
+FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob/main/DAY%203%20LAB/12_LOOP.sql<br/>
+###OUTPUT : <br/>
+
+1. Write a function that uses CASE statement where if monthly_value is equal to or less than 4000, then income_level will be set to 'Low Income'. If monthly_value is equal to or less than 5000, then income_level will be set to 'Avg Income'. Otherwise, income_levelwill be set to 'High Income'.<br/>
+![image](https://user-images.githubusercontent.com/113246116/191739430-ac472912-c889-47f9-a2e5-79b4ca23d6c9.png)<br/>
+![image](https://user-images.githubusercontent.com/113246116/191739514-07083255-b2dd-4708-9283-e91be6576e14.png)<br/>
+
+2. Write a function that will use ITERATE statement which would cause the loop to repeat while income is less than 4000. Once income is greater than or equal to 4000, would terminate the LOOP.<br/>
+![image](https://user-images.githubusercontent.com/113246116/191739728-992fec23-deba-4bf9-aea5-ffd08e3fc4bb.png)<br/>
+![image](https://user-images.githubusercontent.com/113246116/191739865-00a7c11a-1a37-4baf-8288-b8e7bf7d0e7f.png)<br/>
+
+
 <h2 id = "exp13"> 
   EXPERIMENT 13 :
 </h2>
