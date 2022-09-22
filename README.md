@@ -3,13 +3,14 @@
 </h1>
 Consists of MySQL and Queries pertaining to DBMS.<br/>
 
-[Experiment 1](#exp1)<br/>
+[Experiment 1](#exp1)<br/>            
 [Experiment 2](#exp2)<br/>
 [Experiment 3 & 4](#exp3)<br/>
 [Experiment 5](#exp5)<br/>
 [Experiment 6](#exp6)<br/>
 [Experiment 7](#exp7)<br/>
 [Experiment 8](#exp8)<br/>
+[Experiment 9](#exp9)<br/>
 
 
 <h2 id = "exp1"> 
@@ -163,15 +164,35 @@ SUBQUERY AND CORELATED QUERY-  <br/>
 FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob/main/DAY%202%20LAB/8_SUBQUERIES.sql<br/>
 ###OUTPUT : <br/>
 
-1. Highest Score among all courses. <br/>
-![8 1](https://user-images.githubusercontent.com/113246116/191687397-e39f2182-55e9-40a6-9783-d1bf518c0e18.png)
-<br/>
+1. Highest Score among all courses.<br/>
+![8 1](https://user-images.githubusercontent.com/113246116/191687397-e39f2182-55e9-40a6-9783-d1bf518c0e18.png)<br/>
 2. Student who has written more number of assessements. <br/>
-![exp8 2](https://user-images.githubusercontent.com/113246116/191688270-7b0d80d1-d65a-418d-99e6-5694af7fb549.png)
-<br/>
+![exp8 2](https://user-images.githubusercontent.com/113246116/191688270-7b0d80d1-d65a-418d-99e6-5694af7fb549.png)<br/>
 3. Recently joined Faculty. <br/>
-![Exp8 3](https://user-images.githubusercontent.com/113246116/191689109-32569525-aa69-4ade-b448-d414f434ad46.png)
-<br/>
+![Exp8 3](https://user-images.githubusercontent.com/113246116/191689109-32569525-aa69-4ade-b448-d414f434ad46.png)<br/>
 4. Courses and score of assessments that have the value more than the average score each. <br/>
-![exp8 4](https://user-images.githubusercontent.com/113246116/191689122-9dede513-fc5b-4a35-a261-46da019c7d7a.png)
+![exp8 4](https://user-images.githubusercontent.com/113246116/191689122-9dede513-fc5b-4a35-a261-46da019c7d7a.png)<br/>
+
+<h2 id = "exp9"> 
+  EXPERIMENT 9 :
+</h2>
+JOINS <br/>
+FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob/main/DAY%202%20LAB/9_joins.sql<br/>
+###OUTPUT : <br/>
+
+1. List the departments where the faculty members are working..<br/>![image](https://user-images.githubusercontent.com/113246116/191694335-039b651f-fd4b-46a7-8ee6-3e8b31a5ce26.png)<br/>
+2. Find the student who has no score in any of the courses. List student name and course number. <br/>![image](https://user-images.githubusercontent.com/113246116/191694622-dc58853e-24c6-4f93-9a4c-e0d18387a1f6.png)<br/>
+3. The office clerk needs the names of the courses taken by the faculty belonging to ‘ECE department’ whose name is ‘Kamal’ <br/>![image](https://user-images.githubusercontent.com/113246116/191694863-554f5bf8-59ee-4f27-8d63-0e931950dcaf.png)
 <br/>
+
+
+<h2 id = "exp10"> 
+  EXPERIMENT 10 :
+</h2>
+VIEW , INDEX AND SEQUENCE <br/>
+FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob/main/DAY%202%20LAB/10_VIEW.sql <br/>
+###OUTPUT : <br/>
+
+1. Create a view with name ‘std_view’ using STUDENT table which holds the value of **register number, name and DOB** of student.<br/>
+![image](https://user-images.githubusercontent.com/113246116/191697323-6b061a1c-3125-4771-8c08-4a29de23e321.png)<br/>
+
