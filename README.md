@@ -3,7 +3,7 @@
 </h1>
 Consists of MySQL and Queries pertaining to DBMS.<br/>
 
-[Experiment 1](#exp1)<br/>            
+[Experiment 1](#exp1)<br/>
 [Experiment 2](#exp2)<br/>
 [Experiment 3 & 4](#exp3)<br/>
 [Experiment 5](#exp5)<br/>
@@ -11,7 +11,8 @@ Consists of MySQL and Queries pertaining to DBMS.<br/>
 [Experiment 7](#exp7)<br/>
 [Experiment 8](#exp8)<br/>
 [Experiment 9](#exp9)<br/>
-
+[Experiment 10](#exp10)<br/>
+[Experiment 11](#exp11)<br/>
 
 <h2 id = "exp1"> 
   EXPERIMENT 1 :
@@ -195,4 +196,18 @@ FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blo
 
 1. Create a view with name ‘std_view’ using STUDENT table which holds the value of **register number, name and DOB** of student.<br/>
 ![image](https://user-images.githubusercontent.com/113246116/191697323-6b061a1c-3125-4771-8c08-4a29de23e321.png)<br/>
+
+<h2 id = "exp11"> 
+  EXPERIMENT 11 :
+</h2>
+REPEAT AND WHILE <br/>
+FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob/main/DAY%203%20LAB/11_repeat_while.sql<br/>
+###OUTPUT : <br/>
+
+1. Write a function to build a string repeatedly until the value of the variable becomes s greater than 5.<br/>
+![image](https://user-images.githubusercontent.com/113246116/191705032-b3389aff-629a-4030-9db7-0da1890f0fd5.png)<br/>
+
+2. Write a function that uses REPEAT statement which would repeat the loopuntil income is greater than or equal to 4000, at which point the REPEAT loop would be terminated.<br/>
+![image](https://user-images.githubusercontent.com/113246116/191703032-7dd61a93-3a39-4b13-bbeb-47630f9debf7.png)<br/>
+
 
