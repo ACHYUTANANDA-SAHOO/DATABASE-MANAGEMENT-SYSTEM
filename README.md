@@ -20,6 +20,10 @@ Consists of MySQL and Queries pertaining to DBMS.<br/>
 [Experiment 16 : High Level Programming Extensions-Function ](#exp16)<br/>
 [Experiment 17 : High Level Programming Extensions-Cursors ](#exp17)<br/>
 [Experiment 18 : High Level Programming Extensions-Triggers](#exp18)<br/>
+[Experiment 19 :](#exp18)<br/>
+[Experiment 20 :](#exp18)<br/>
+[Experiment 21 : CASE SCENARIO : Basic SQL Queries Implementation for HRM database](#exp18)<br/>
+
 
 <h2 id = "exp1"> 
   EXPERIMENT 1 :
@@ -311,6 +315,22 @@ FILE LINK :https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob
 1. Create a trigger in MySQL to log the changes of the EMPLOYEES table with fields ID, Name and Email. Also create a new table named EMPLOYEES_AUDIT to keep the changes of the employee table. Create a BEFORE UPDATE trigger that is invoked before a change is made to the employees table.<br/>
 ![image](https://user-images.githubusercontent.com/113246116/191884124-71da001e-daa9-4a68-b2a4-8c5466fffbec.png)<br/>
 ![image](https://user-images.githubusercontent.com/113246116/191884616-8fdbd633-7653-4d1b-a606-9826f29b0c1a.png)<br/>
+
+
+
+<h2 id = "exp21"> 
+  EXPERIMENT 21 :
+</h2>
+CASE SCENARIO : Basic SQL Queries Implementation for HRM database<br/>
+FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob/main/DAY%202%20LAB/9_joins.sql<br/>
+###OUTPUT : <br/>
+
+1. How the resulting salaries if every employee working on the ‘Research’ Departments is given a 10 percent raise.<br/>
+![image](https://user-images.githubusercontent.com/113246116/191887996-9aeab638-6444-47c2-b573-5b3979dd48f4.png)<br/>
+2. Find the sum of the salaries of all employees of the ‘Accounts’ department, as well as the maximum salary, the minimum salary, and the average salary in this department. <br/>
+![image](https://user-images.githubusercontent.com/113246116/191888135-d7eb5cb7-e346-42f2-9311-ee83b6d9cf40.png)<br/>
+3. Retrieve the name of each employee Controlled by department number 5 (use EXISTS operator).<br/>
+![image](https://user-images.githubusercontent.com/113246116/191888357-b33f141e-d20b-483c-ae1a-fae1ccf7a4fb.png)<br/>
 
 
 
