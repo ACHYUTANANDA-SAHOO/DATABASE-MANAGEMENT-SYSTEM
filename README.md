@@ -22,8 +22,10 @@ Consists of MySQL and Queries pertaining to DBMS.<br/>
 [Experiment 18 : High Level Programming Extensions-Triggers](#exp18)<br/>
 [Experiment 19 :](#exp18)<br/>
 [Experiment 20 :](#exp18)<br/>
-[Experiment 21 : CASE SCENARIO : Basic SQL Queries Implementation for HRM database](#exp18)<br/>
-
+[Experiment 21 : CASE SCENARIO : Basic SQL Queries Implementation for HRM database](#exp21)<br/>
+[Experiment 22 : CASE SCENARIO 2 : Basic SQL Queries Implementation for HRM database](#exp22)<br/>
+[Experiment 23 : CASE SCENARIO 3 : Case Scenario SQL Queries Implementation for General Hospital.](#exp23)<br/>
+[Experiment 24 : CASE SCENARIO 4 : Case Scenario SQL Queries Implementation for General Hospital.](#exp24)<br/>
 
 <h2 id = "exp1"> 
   EXPERIMENT 1 :
@@ -322,7 +324,7 @@ FILE LINK :https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob
   EXPERIMENT 21 :
 </h2>
 CASE SCENARIO : Basic SQL Queries Implementation for HRM database<br/>
-FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob/main/DAY%202%20LAB/9_joins.sql<br/>
+FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob/main/DAY%205%20LAB/21_CaseStudy_1.sql<br/>
 ###OUTPUT : <br/>
 
 1. How the resulting salaries if every employee working on the ‘Research’ Departments is given a 10 percent raise.<br/>
@@ -331,6 +333,78 @@ FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blo
 ![image](https://user-images.githubusercontent.com/113246116/191888135-d7eb5cb7-e346-42f2-9311-ee83b6d9cf40.png)<br/>
 3. Retrieve the name of each employee Controlled by department number 5 (use EXISTS operator).<br/>
 ![image](https://user-images.githubusercontent.com/113246116/191888357-b33f141e-d20b-483c-ae1a-fae1ccf7a4fb.png)<br/>
+
+<h2 id = "exp22"> 
+  EXPERIMENT 22 :
+</h2>
+CASE SCENARIO 2 : Basic SQL Queries Implementation for HRM database<br/>
+FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob/main/DAY%205%20LAB/22_CASE_STUDY_2.sql<br/>
+###OUTPUT : <br/>
+
+1. Retrieve the name of each dept and number of employees working in each department which has at least 2 employees<br/>
+![image](https://user-images.githubusercontent.com/113246116/191891262-7c5718d8-9a2d-492e-bcc7-50c4c9dce5a5.png)<br/>
+![image](https://user-images.githubusercontent.com/113246116/191891287-4dbdfa3a-364e-423b-84ff-f7c33fd1a832.png)<br/>
+
+2. Retrieve the name of employees who born in the year 1990. <br/>
+![image](https://user-images.githubusercontent.com/113246116/191891412-bb5bfa8b-3fbf-4011-bbd8-1c84867c9b80.png)<br/>
+
+3. Retrieve the name of employees and their dept name (using JOIN). <br/>
+![image](https://user-images.githubusercontent.com/113246116/191891645-494a10af-6ab8-4dc3-adfc-6a3cb6f85352.png)<br/>
+
+<h2 id = "exp23"> 
+  EXPERIMENT 23 :
+</h2>
+CASE SCENARIO 23 :Case Scenario SQL Queries Implementation for General Hospital. <br/>
+FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob/main/DAY%205%20LAB/23_CASE_STUDY_3.sql<br/>
+###OUTPUT : <br/>
+
+A General Hospital consists of a number of specialized wards (such as Maternity, Pediatric, Oncology, etc). Each ward hosts a number of patients, who were admitted on the recommendation of their own GP and confirmed by a consultant employed by the Hospital. On admission, the personal details of every patient are recorded. A separate register is to be held to store the information of the tests undertaken and the results of a prescribed treatment. A number of tests may be conducted for each patient. Each patient is assigned to one leading consultant but may be examined by another doctor, if required. Doctors are specialists in some branch of medicine and may be leading consultants for a number of patients, not necessarily from the same ward. For the above case study, do the following. <br/>
+**Analyze the data required**. <br/>
+1. All Tables in the DB <br/>
+![image](https://user-images.githubusercontent.com/113246116/191894529-a4434bc9-a25d-43ce-b8e3-641445743e92.png)<br/>
+2. table "BILL" <br/>
+![image](https://user-images.githubusercontent.com/113246116/191894545-0a1c9b78-44da-4004-b339-c6eea35e1a84.png)<br/>
+3. table "DOCTOR" <br/>
+![image](https://user-images.githubusercontent.com/113246116/191894585-a4a5d4fc-392d-4e35-a254-65cb45b59db6.png)<br/>
+4. table "INPATIENT" <br/>
+![image](https://user-images.githubusercontent.com/113246116/191894617-0b10887a-1e85-48ca-bc08-3b78ae18403d.png)<br/>
+5. table "LAB" <br/>
+![image](https://user-images.githubusercontent.com/113246116/191894637-436cb3b9-5dfa-4638-b740-5d9ab02bbdfd.png)<br/>
+6. table "OUTPATIENT" <br/>
+![image](https://user-images.githubusercontent.com/113246116/191894676-08b464b6-ceb7-4e0f-8eca-836ae213e550.png)<br/>
+7. table "PATIENT" <br/>
+![image](https://user-images.githubusercontent.com/113246116/191894707-05359aa4-5bd8-44b4-91d9-0a7ba6df5297.png)<br/>
+8. table "ROOM" <br/>
+![image](https://user-images.githubusercontent.com/113246116/191895136-006b947f-a7ba-44c5-b1ca-e7dd243d2ce9.png)<br/>
+
+<h2 id = "exp24"> 
+  EXPERIMENT 24 :
+</h2>
+CASE SCENARIO 24 :Case Scenario SQL Queries Implementation for General Hospital. <br/>
+FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob/main/DAY%205%20LAB/24_CASE_STUDY_4.sql<br/>
+###OUTPUT : <br/>
+
+A General Hospital consists of a number of specialized wards (such as Maternity, Pediatric, Oncology, etc). Each ward hosts a number of patients, who were admitted on the recommendation of their own GP and confirmed by a consultant employed by the Hospital. On admission, the personal details of every patient are recorded. A separate register is to be held to store the information of the tests undertaken and the results of a prescribed treatment. A number of tests may be conducted for each patient. Each patient is assigned to one leading consultant but may be examined by another doctor, if required. Doctors are specialists in some branch of medicine and may be leading consultants for a number of patients, not necessarily from the same ward. For the above case study, do the following. <br/>
+**Analyze the data required**. <br/>
+1. All Tables in the DB : <br/>
+![image](https://user-images.githubusercontent.com/113246116/191894529-a4434bc9-a25d-43ce-b8e3-641445743e92.png)<br/>
+2. table "BILL" <br/>
+![image](https://user-images.githubusercontent.com/113246116/191894545-0a1c9b78-44da-4004-b339-c6eea35e1a84.png)<br/>
+3. table "DOCTOR" <br/>
+![image](https://user-images.githubusercontent.com/113246116/191894585-a4a5d4fc-392d-4e35-a254-65cb45b59db6.png)<br/>
+4. table "INPATIENT" <br/>
+![image](https://user-images.githubusercontent.com/113246116/191894617-0b10887a-1e85-48ca-bc08-3b78ae18403d.png)<br/>
+5. table "LAB" <br/>
+![image](https://user-images.githubusercontent.com/113246116/191894637-436cb3b9-5dfa-4638-b740-5d9ab02bbdfd.png)<br/>
+6. table "OUTPATIENT" <br/>
+![image](https://user-images.githubusercontent.com/113246116/191894676-08b464b6-ceb7-4e0f-8eca-836ae213e550.png)<br/>
+7. table "PATIENT" <br/>
+![image](https://user-images.githubusercontent.com/113246116/191894707-05359aa4-5bd8-44b4-91d9-0a7ba6df5297.png)<br/>
+8. table "ROOM" <br/>
+![image](https://user-images.githubusercontent.com/113246116/191895136-006b947f-a7ba-44c5-b1ca-e7dd243d2ce9.png)<br/>
+
+
+
 
 
 
