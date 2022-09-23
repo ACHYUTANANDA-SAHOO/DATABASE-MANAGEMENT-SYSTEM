@@ -26,6 +26,7 @@ Consists of MySQL and Queries pertaining to DBMS.<br/>
 [Experiment 22 : CASE SCENARIO 2 : Basic SQL Queries Implementation for HRM database](#exp22)<br/>
 [Experiment 23 : CASE SCENARIO 3 : Case Scenario SQL Queries Implementation for General Hospital.](#exp23)<br/>
 [Experiment 24 : CASE SCENARIO 4 : Case Scenario SQL Queries Implementation for General Hospital.](#exp24)<br/>
+[Experiment 25 : CASE SCENARIO 5 : Case Scenario SQL Queries Implementation for Student Progress Monitoring System. ](#exp25)<br/>
 
 <h2 id = "exp1"> 
   EXPERIMENT 1 :
@@ -405,6 +406,32 @@ A General Hospital consists of a number of specialized wards (such as Maternity,
 
 
 
+<h2 id = "exp25"> 
+  EXPERIMENT 25 :
+</h2>
+CASE SCENARIO 25 :Case Scenario SQL Queries Implementation for General Hospital. <br/>
+FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob/main/DAY%205%20LAB/25_CASE_STUDY_5.sql<br/>
+###OUTPUT : <br/>
 
+A database is to be designed for a college to monitor students' progress throughout their course of study. The students are reading for a degree (such as BA, BA (Hons) M.Sc., etc) within the framework of the modular system. The college provides a number of modules, each being characterized by its code, title, credit value, module leader, teaching staff and the department they come from. A module is coordinated by a module leader who shares teaching duties with one or more lecturers. A lecturer may teach (and be a module leader for) more than one module. Students are free to choose any module they wish but the following rules must be observed: Some modules require pre- requisites modules and some degree programmes have compulsory modules. The database is also to contain some information about students including their numbers, names, addresses, degrees they read for, and their past performance i.e. modules taken and examination results. For the above case study, do the following: <br/>
+**Analyze the data required**. <br/>
+1. All Tables in the DB : <br/>
+![image](https://user-images.githubusercontent.com/113246116/191900553-359c9a74-9cbb-4718-a6f2-650d4131c991.png)<br/>
+2. table "COURSE" <br/>
+![image](https://user-images.githubusercontent.com/113246116/191900604-727c741b-e355-44a7-b14a-6fbc5ca037ef.png)<br/>
+3. table "DEPARTMENT" <br/>
+![image](https://user-images.githubusercontent.com/113246116/191900649-55f409c7-2321-41ac-977a-5639c15a3914.png)<br/>
+4. table "GRADE" <br/>
+![image](https://user-images.githubusercontent.com/113246116/191900682-dac3181b-7036-402b-a41e-7dd6f97baea0.png)<br/>
+5. table "LECTURE PLAN" <br/>
+![image](https://user-images.githubusercontent.com/113246116/191900744-2efc6970-6917-40ba-8917-ae482be04c1b.png)<br/>
+6. table "LECTURER" <br/>
+![image](https://user-images.githubusercontent.com/113246116/191900863-fcb2f853-8ea0-4f28-a93f-35d1f067115a.png)<br/>
+7. table "MODULE" <br/>
+![image](https://user-images.githubusercontent.com/113246116/191900956-773c419e-8751-4a9a-b1c1-85a0f79e8223.png)<br/>
+8. table "PRE-REQUISITE" <br/>
+![image](https://user-images.githubusercontent.com/113246116/191901020-9d37c1df-96f0-435d-b975-37f603133ed4.png)<br/>
+9. table "STUDENT" <br/>
+![image](https://user-images.githubusercontent.com/113246116/191901094-c082283a-30ed-48d6-9b33-a8ada99778ce.png)<br/>
 
 
