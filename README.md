@@ -3,18 +3,23 @@
 </h1>
 Consists of MySQL and Queries pertaining to DBMS.<br/>
 
-[Experiment 1](#exp1)<br/>
-[Experiment 2](#exp2)<br/>
-[Experiment 3 & 4](#exp3)<br/>
-[Experiment 5](#exp5)<br/>
-[Experiment 6](#exp6)<br/>
-[Experiment 7](#exp7)<br/>
-[Experiment 8](#exp8)<br/>
-[Experiment 9](#exp9)<br/>
-[Experiment 10](#exp10)<br/>
-[Experiment 11](#exp11)<br/>
-[Experiment 12](#exp12)<br/>
-[Experiment 13](#exp13)<br/>
+[Experiment 1 : DDL Commands – CREATE, ALTER, DROP ](#exp1)<br/>
+[Experiment 2 : DDL Commands with Constraints – PRIMARY, FOREIGN KEY, UNIQUE, CHECK ](#exp2)<br/>
+[Experiment 3 & 4 : DML Commands – INSERT, SELECT, UPDATE, DELETE ](#exp3)<br/>
+[Experiment 5 : SELECT with various clause – WHERE, pattern matching ](#exp5)<br/>
+[Experiment 6 : SELECT with various clause – BETWEEN, IN, Aggregate Function ](#exp6)<br/>
+[Experiment 7 : SELECT with various clause – GROUP BY, HAVING, ORDER BY ](#exp7)<br/>
+[Experiment 8 : SubQuery & Correlated Query ](#exp8)<br/>
+[Experiment 9 : Joins – EquiJoin, InnerJoin, OuterJoin](#exp9)<br/>
+[Experiment 10 : VIEW, INDEX, SEQUENCE ](#exp10)<br/>
+[Experiment 11 : Simple programming  exercises using CASE, IF, ITERATE, LEAVE, LOOP ](#exp11)<br/>
+[Experiment 12 : Simple programming  exercises using REPEAT, WHILE](#exp12)<br/>
+[Experiment 13 : TCL Commands – COMMIT, ROLLBACK, SAVEPOINT ](#exp13)<br/>
+[Experiment 14 : DCL Commands – GRANT, REVOKE ](#exp14)<br/>
+[Experiment 15 : High Level Programming Extensions-Procedures ](#exp15)<br/>
+[Experiment 16 : High Level Programming Extensions-Function ](#exp16)<br/>
+[Experiment 17 : High Level Programming Extensions-Cursors ](#exp17)<br/>
+[Experiment 18 : High Level Programming Extensions-Triggers](#exp18)<br/>
 
 <h2 id = "exp1"> 
   EXPERIMENT 1 :
@@ -231,11 +236,81 @@ FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blo
 <h2 id = "exp13"> 
   EXPERIMENT 13 :
 </h2>
-REPEAT AND WHILE <br/>
-FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob/main/DAY%203%20LAB/11_repeat_while.sql<br/>
+TCL COMMANDS : <br/>
+FILE LINK :https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob/main/DAY%203%20LAB/13_TCL_COMMANDS.sql <br/>
 ###OUTPUT : <br/>
 
 1. Rollback to that state using the ROLLBACK command whenever required.
 Create a following table Class and insert values into it in the order and create savepoints in between them. Try to rollback t the save point and check your output by giving select commands.<br/>
 ![image](https://user-images.githubusercontent.com/113246116/191737499-42388690-cdc6-4fd7-b61d-e093b3a7ab0d.png)<br/>
+
+
+<h2 id = "exp14"> 
+  EXPERIMENT 14 :
+</h2>
+DCL COMMANDS <br/>
+FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob/main/DAY%203%20LAB/14_DCL_commands.sql <br/>
+###OUTPUT : <br/>
+
+1. Allow a User to create session. When we create a user in SQL, it is not even allowed to login and create a session until and unless proper permissions/privileges are granted to the user.<br/>
+![image](https://user-images.githubusercontent.com/113246116/191881618-ff2dfdf9-b22a-4cef-ac2d-5cedfcf935ff.png)<br/>
+
+
+<h2 id = "exp15"> 
+  EXPERIMENT 15 :
+</h2>
+PROCEDURES : <br/>
+FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob/main/DAY%203%20LAB/15_PROCEDURES.sql<br/>
+###OUTPUT : <br/>
+
+1. Create a simple procedure to get all the records from the table ‘student_info’ which have the following data: <br/>
+mysql> select * from student_info;<br/>
+![image](https://user-images.githubusercontent.com/113246116/191882057-95e5e06e-fce5-4036-9e28-ed03f088b28e.png)<br/>
+![image](https://user-images.githubusercontent.com/113246116/191882114-833f8728-b8c4-445e-a1b7-78ba2fb9aad5.png)<br/>
+
+2. Create a stored procedure GetCustomerLevel() that accepts two parameters customer number and customer level. First, it gets the credit limit from the customers table. Then, based on the credit limit, it determines the customer level: PLATINUM , GOLD , an SILVER.<br/>
+![image](https://user-images.githubusercontent.com/113246116/191882242-7c73f318-c3c5-4145-ae0a-8ac70e60420a.png)<br/>
+![image](https://user-images.githubusercontent.com/113246116/191882539-71f9d1c7-f81f-4dcd-924d-5a81de32e74c.png)<br/>
+
+
+<h2 id = "exp16"> 
+  EXPERIMENT 16 :
+</h2>
+FUNCTION AND RECURSION : <br/>
+FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob/main/DAY%204%20LAB/16_FUNCTION_RECURSION.sql<br/>
+###OUTPUT : <br/>
+
+1. Create a function that returns the level of a customer based on credit limit.(Use the IF statement to determine the credit limit .<br/>
+![image](https://user-images.githubusercontent.com/113246116/191882774-3ab8e70f-0324-4651-92cc-f18f44b7b980.png)<br/>
+![image](https://user-images.githubusercontent.com/113246116/191883012-5cfabb32-06d4-4e86-9eeb-597199824689.png)<br/>
+
+2. Write a recursive MySQL procedure compute the factorial of a number .<br/>
+![image](https://user-images.githubusercontent.com/113246116/191883131-b9d11a1c-16e8-4e22-ad45-293ae0722704.png)<br/>
+![image](https://user-images.githubusercontent.com/113246116/191883170-c7c90588-fc3b-4c34-8682-14bcac9081d7.png)<br/>
+
+
+<h2 id = "exp17"> 
+  EXPERIMENT 17 :
+</h2>
+CURSORS IN MY-SQL <br/>
+FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob/main/DAY%204%20LAB/17_cursor.sql<br/>
+###OUTPUT : <br/>
+
+1. Write a Cursor program using MySQL to retrieve the email-ids(build an email list) of employees from employees table.<br/>
+![image](https://user-images.githubusercontent.com/113246116/191883728-570f4a01-9012-4cb0-96d3-6ab1324d8802.png)<br/>
+![image](https://user-images.githubusercontent.com/113246116/191883941-6f4354f2-d943-4593-a15b-e08493533328.png)<br/>
+
+
+<h2 id = "exp18"> 
+  EXPERIMENT 18 :
+</h2>
+TRIGGERS IN MY-SQL : <br/>
+FILE LINK :https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob/main/DAY%204%20LAB/18_trigger.sql<br/>
+###OUTPUT : <br/>
+
+1. Create a trigger in MySQL to log the changes of the EMPLOYEES table with fields ID, Name and Email. Also create a new table named EMPLOYEES_AUDIT to keep the changes of the employee table. Create a BEFORE UPDATE trigger that is invoked before a change is made to the employees table.<br/>
+![image](https://user-images.githubusercontent.com/113246116/191884124-71da001e-daa9-4a68-b2a4-8c5466fffbec.png)<br/>
+![image](https://user-images.githubusercontent.com/113246116/191884616-8fdbd633-7653-4d1b-a606-9826f29b0c1a.png)<br/>
+
+
 
