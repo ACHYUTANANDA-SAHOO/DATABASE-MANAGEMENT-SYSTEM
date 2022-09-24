@@ -1,7 +1,11 @@
 <h1 id = "top">
   DATABASE-MANAGEMENT-SYSTEM
 </h1>
-Consists of MySQL and Queries pertaining to DBMS.<br/>
+Consists of Queries pertaining to DBMS .<br/>
+** DBMS Software Used : MySQL ** 
+<br/>
+
+## LIST OF EXPERIMENTS :
 
 [Experiment 1 : DDL Commands – CREATE, ALTER, DROP ](#exp1)<br/>
 [Experiment 2 : DDL Commands with Constraints – PRIMARY, FOREIGN KEY, UNIQUE, CHECK ](#exp2)<br/>
@@ -21,7 +25,7 @@ Consists of MySQL and Queries pertaining to DBMS.<br/>
 [Experiment 17 : High Level Programming Extensions-Cursors ](#exp17)<br/>
 [Experiment 18 : High Level Programming Extensions-Triggers](#exp18)<br/>
 [Experiment 19 :](#exp18)<br/>
-[Experiment 20 :](#exp18)<br/>
+[Experiment 20 : JAVA DATABASE CONNECTIVITY ](#exp20)<br/>
 [Experiment 21 : CASE SCENARIO : Basic SQL Queries Implementation for HRM database](#exp21)<br/>
 [Experiment 22 : CASE SCENARIO 2 : Basic SQL Queries Implementation for HRM database](#exp22)<br/>
 [Experiment 23 : CASE SCENARIO 3 : Case Scenario SQL Queries Implementation for General Hospital.](#exp23)<br/>
@@ -319,7 +323,15 @@ FILE LINK :https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob
 ![image](https://user-images.githubusercontent.com/113246116/191884124-71da001e-daa9-4a68-b2a4-8c5466fffbec.png)<br/>
 ![image](https://user-images.githubusercontent.com/113246116/191884616-8fdbd633-7653-4d1b-a606-9826f29b0c1a.png)<br/>
 
+<h2 id = "exp20"> 
+  EXPERIMENT 20 :
+</h2>
+JAVA DATABASE CONNECTIVITY : <br/>
+FILE LINK :https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob/main/DAY%204%20LAB/20_DBConnect.java <br/>
+###OUTPUT : <br/>
 
+To connect the Mysql usingj ava and MYSQL and to execute quries. <br/>
+![image](https://user-images.githubusercontent.com/113246116/192077492-5275b382-10fc-4d5f-926a-d483885136ab.png)<br/>
 
 <h2 id = "exp21"> 
   EXPERIMENT 21 :
