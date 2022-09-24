@@ -30,7 +30,7 @@ Consists of Queries pertaining to DBMS .<br/>
 |16.		|[High Level Programming Extensions-Function ](#exp16)<br/>	|22-09-2022		|
 |17.		|[High Level Programming Extensions-Cursors ](#exp17)<br/>	|22-09-2022		|
 |18.		|[High Level Programming Extensions-Triggers](#exp18)<br/>	|22-09-2022		|
-|19.		|[Experiment 19 :](#exp18)<br/>	|22-09-2022		|
+|19.		|[DATABASE CONNECTIVITY USING PHP AND MYSQL ](#exp19)<br/>	|22-09-2022		|
 |20.		|[JAVA DATABASE CONNECTIVITY ](#exp20)<br/>	|22-09-2022		|
 |21.		|[CASE SCENARIO : Basic SQL Queries Implementation for HRM database](#exp21)<br/>	|23-09-2022		|
 |22.		|[CASE SCENARIO 2 : Basic SQL Queries Implementation for HRM database](#exp22)<br/>	|23-09-2022		|
@@ -332,6 +332,13 @@ FILE LINK :https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob
 1. Create a trigger in MySQL to log the changes of the EMPLOYEES table with fields ID, Name and Email. Also create a new table named EMPLOYEES_AUDIT to keep the changes of the employee table. Create a BEFORE UPDATE trigger that is invoked before a change is made to the employees table.<br/>
 ![image](https://user-images.githubusercontent.com/113246116/191884124-71da001e-daa9-4a68-b2a4-8c5466fffbec.png)<br/>
 ![image](https://user-images.githubusercontent.com/113246116/191884616-8fdbd633-7653-4d1b-a606-9826f29b0c1a.png)<br/>
+
+<h2 id = "exp19"> 
+  EXPERIMENT 19 :
+</h2> 
+DATABASE CONNECTIVITY using PHP and MYSQL : <br/>
+FILE LINK : https://github.com/ACHYUTANANDA-SAHOO/DATABASE-MANAGEMENT-SYSTEM/blob/main/DAY%204%20LAB/19_PHP <br/>
+
 
 <h2 id = "exp20"> 
   EXPERIMENT 20 :
