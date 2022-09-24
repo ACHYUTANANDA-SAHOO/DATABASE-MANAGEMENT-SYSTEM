@@ -1,11 +1,14 @@
 <h1 align = "center">
   DATABASE-MANAGEMENT-SYSTEM
 </h1>
-Consists of Queries pertaining to DBMS .<br/>
-** DBMS Software Used : MySQL ** 
-<br/>
 
-<h2 align="center"> INDEX </h2>
+<div align="center">
+Consists of Queries pertaining to DBMS .<br/>
+<strong> Course : CSA0519-Database Management Systems with Couchbase <strong> <br/>
+<strong> DBMS Software Used : MySQL </strong>
+</div>
+
+<h1 align="center"> INDEX </h1>
 <div align="center">
 
 |Exp.No 		|Expermiment Title & Link  	|Date Of Experiment	|
